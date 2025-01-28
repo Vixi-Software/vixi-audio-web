@@ -119,18 +119,11 @@ beacon_package/Model/
 
 *.gz
 
-beacon_package/phobert-base/
-
-beacon_package/intent_recognition/phobert-base/
-
-beacon_package/intent_recognition/model/
-beacon_package/**/*.bk.py
+node_modules
 
 *.ipynb
 
 *.csv
-
-beacon_package/intent_recognition/cache/
 
 */python-3.9.0-amd64.exe
 
